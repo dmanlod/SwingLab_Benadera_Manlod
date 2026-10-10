@@ -2,7 +2,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class ClickCounter {
+public class ClickCounterLab {
 
     public static void main(String[] args) {
         // ===== PART 1: open a window =====
